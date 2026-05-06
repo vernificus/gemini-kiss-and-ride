@@ -10,15 +10,18 @@
     {
       "src": "favicon.ico",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "favicon.ico",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/gemini-kiss-and-ride/",
+  "scope": "/gemini-kiss-and-ride/",
   "display": "standalone",
   "theme_color": "#2563eb",
   "background_color": "#f8fafc"
