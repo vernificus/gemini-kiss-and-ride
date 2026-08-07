@@ -1,0 +1,23 @@
+{
+  "short_name": "SchoolRider",
+  "name": "SchoolRider Dismissal App",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/gemini-kiss-and-ride/",
+  "scope": "/gemini-kiss-and-ride/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc"
+}
